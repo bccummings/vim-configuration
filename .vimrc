@@ -7,4 +7,4 @@ set expandtab
 set shiftwidth=2
 set softtabstop=2
 
-let g:airline_theme='zenburn'
+let g:airline_theme='minimalist'
